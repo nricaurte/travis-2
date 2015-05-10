@@ -1,2 +1,2 @@
 language: java
-script: aant -version
+script: ant -version
